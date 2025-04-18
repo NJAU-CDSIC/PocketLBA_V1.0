@@ -20,7 +20,7 @@ The file and folders in the PocketLBA repository:
 
 - **Process.py**: Preprocess protein and ligand data, generating graph files.
 
-- **Train.py: ** Train the model.
+- **Train.py**:  Train the model.
 
 - **Test.py:** Test the model.
 
